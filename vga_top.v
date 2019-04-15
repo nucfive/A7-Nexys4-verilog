@@ -18,7 +18,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 `timescale 1ns / 1ps
-`include "I:\\vivadoVerilog\\Tutorials_verilog\\lesson12_vga\\Prj\\Code\\src\\parameter.v"
+`include "I:\\vivadoVerilog\\Tutorials_verilog\\lesson12_vga\\Prj\\Code\\src\\parameter.v" // sim 
 module vga_top(
 	 input                            wire                        sys_clk
 	,input                            wire                        rst
